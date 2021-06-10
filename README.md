@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 <!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitanshukr)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitanshukr&theme=light)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitanshukr)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
 **mitanshukr/mitanshukr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
