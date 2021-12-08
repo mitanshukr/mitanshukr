@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Mitanshu.
+A Full-Stack Web Developer.
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitanshukr)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- ![Mitanshu's github stats](https://github-readme-stats.vercel.app/api?username=mitanshukr)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitanshukr&theme=light)](https://git.io/streak-stats) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitanshukr)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitanshukr)](https://github.com/anuraghazra/github-readme-stats) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitanshukr)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mitanshukr&theme=light)](https://git.io/streak-stats) -->
 
 
 <!--
