@@ -19,7 +19,6 @@ A Full-time Backend Engineer and a Part-time Frontend Engineer.
 
 - Twitter: [@mitanshukr](https://twitter.com/mitanshukr)
 - LinkedIn: [@mitanshukr](https://www.linkedin.com/in/mitanshukr/)
-- E-mail: mitanshukr@yahoo.com
 
 
 ![Mitanshu's github stats](https://github-readme-stats.vercel.app/api?username=mitanshukr&show_icons=true&theme=radical)
