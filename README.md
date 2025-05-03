@@ -20,9 +20,7 @@ A Full-time Backend Engineer and a Part-time Frontend Engineer.
 - Twitter: [@mitanshukr](https://twitter.com/mitanshukr)
 - LinkedIn: [@mitanshukr](https://www.linkedin.com/in/mitanshukr/)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitanshukr&hide=html&layout=compact&theme=buefy" />
-
-![Mitanshu's github stats](https://github-readme-stats.vercel.app/api?username=mitanshukr&show_icons=true&theme=radical)
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitanshukr&hide=html&layout=compact&theme=buefy" /> ![Mitanshu's github stats](https://github-readme-stats.vercel.app/api?username=mitanshukr&show_icons=true&theme=radical)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mitanshukr)](https://github.com/ryo-ma/github-profile-trophy) -->
 
